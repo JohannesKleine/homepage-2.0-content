@@ -5,6 +5,14 @@ save_as: index.html
 
 <section id="vorstellung">
     <h1>Freie Software und Freies Wissen Dresden</h1>
+    <nav class="hometoc">
+      <ul>
+        <li><a href="#vorstellungsvortrag-lightningtalk-datenspuren2016">Vorstellungsvortrag</a></li>
+        <li><a href="#news">Aktuelles</a></li>
+        <li><a href="#plenum">Regelmäßige Treffen</a></li>
+        <li><a href="#kontakt">Kontakt</a></li>
+      </ul>
+    </nav>
     <p>Wir sind eine mehrheitlich studentische Initiative und anerkannte Hochschulgruppe mit folgenden Zielen:</p>
     <ul>
         <li>Verbreitung freier Software, insbesondere in Forschung und Lehre</li>
